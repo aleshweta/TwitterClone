@@ -28,4 +28,4 @@ Here's a walkthrough of implemented user stories:
 
 https://user-images.githubusercontent.com/47941415/134955845-ca3585a4-bc7f-4dc1-b1a5-48e02c426899.mov
 
-<img src='https://imgur.com/a/UehXUKP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
